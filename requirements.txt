@@ -2,5 +2,6 @@ Flask
 SimpleITK
 numpy
 scikit-image
-numpy-stl
 scipy
+matplotlib
+numpy-stl
